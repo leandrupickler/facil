@@ -6,13 +6,13 @@ export default function Sidebar() {
         <nav className={Styles.side}>
             <div className={Styles.side__inner}>
                 <div className={Styles.top}>
-                    <span>@junioranheu</span>
+                    <span>@adsfmp</span>
                 </div>
 
                 <div className={Styles.bottom}>
-                    <a href='https://github.com/junioranheu' target='_blank' rel='noreferrer'>Github</a>
-                    {/* <a href='https://www.linkedin.com/in/junioranheu/' target='_blank' rel='noreferrer'>Linkedin</a> */}
-                    <a href='https://github.com/justadudewhohacks/face-api.js/' target='_blank' rel='noreferrer'>Face API</a>
+                    <a href='LEANDRO PICKLER' target='_blank' rel='noreferrer'>Github</a>
+                    {/* <a href='LEANDRO PICKLER' target='_blank' rel='noreferrer'>Linkedin</a> */}
+                    <a href='LEANDRO PICKLER' target='_blank' rel='noreferrer'>Face FMP</a>
                 </div>
             </div>
         </nav>
