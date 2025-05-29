@@ -11,7 +11,7 @@ export default function Index() {
     const [emoji, setEmoji] = useState('');
     useEffect(() => {
         // Título da página;
-        document.title = `Detector de expressões — @junioranheu`;
+        document.title = `Detector de expressões — @adsfmp`;
 
         setEmoji(EmojiAleatorio());
     }, []);
